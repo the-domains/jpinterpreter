@@ -1,0 +1,28 @@
+name: jpinterpreter
+favicon: null
+layout_spectrum: 0.7762453595642
+typography_spectrum: 0.8488077016081661
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.08943797880783677
+  lightness: 0.688211977481842
+  saturation: 0.30493997503072023
+  rhythmicContrast: 0.10682638199068606
+purpose: []
